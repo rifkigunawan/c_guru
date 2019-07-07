@@ -43,7 +43,7 @@
 
 
 <video autoplay  loop id="myVideo">
-  <source src="<?php echo base_url();?>asset/1.mp4" type="video/mp4"> 
+  <source src="<?php echo base_url();?>vidio/bunga.mp4" type="video/mp4"> 
   Your browser does not support HTML5 video.
 </video>
 <div class="login-box">
